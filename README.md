@@ -22,7 +22,7 @@ PTK file in directory.
 
 <br>
 <div align = "center">
-<img src="https://github.com/Neyko666/company-network-design/assets/171580092/874e505b-1f18-47cc-a32b-2264ef02e4f4" width="800">
+<img src="https://github.com/Neyko666/company-network-design/assets/171580092/874e505b-1f18-47cc-a32b-2264ef02e4f4" width="600">
 </div>
 <br>
 <div align = "center">
