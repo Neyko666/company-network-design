@@ -2,13 +2,21 @@
 A small enterprise network design and implementation project on Cisco Packet Tracer. 
 
 Technology Implemented:
+<br>
 • VLAN
+<br>
 • Router on a stick (inter-vlan routing)
+<br>
 • DHCP
+<br>
 • Wireless access points (WLAN)
+<br>
 • OSPF single area
+<br>
 • SSH
+<br>
 • Switchport security
+<br>
 
 PTK file in directory.
 
